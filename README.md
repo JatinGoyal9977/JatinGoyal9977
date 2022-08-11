@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jatin Goyal
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript
 - 📫 How to reach me jatingoyal7047@gmail.com
 
 <!---
